@@ -12,10 +12,5 @@ python -m pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
-Si el histórico no se descarga automáticamente:
-
-```powershell
-python DESCARGAR_DATASET.py
-```
 
 
